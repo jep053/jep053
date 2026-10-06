@@ -11,9 +11,13 @@ I like building products end to end, from database schema and security to the UI
 ## 🛠 Tech Stack
 
 **Languages:** C++, Python, TypeScript, JavaScript, Java, Swift
+
 **Frameworks:** Next.js, React, shadcn/ui, Django
+
 **Data & Backend:** Supabase (PostgreSQL, Auth, RLS), REST APIs
+
 **AI:** Claude API, Gemini API
+
 **Tools:** Git & GitHub, Linux, Valgrind, Playwright, Vitest, Figma
 
 ## 🚀 Projects
